@@ -6,7 +6,7 @@ configuration:
   enablePopovers: true
   analytics: { provider: "google", tagId: "G-SMCR0BZTPQ" }
   locale: it-IT
-  baseUrl: Cresh-dev.github.io/ehl
+  baseUrl: cresh-dev.github.io/Ethical-hacking-laboratory/
   ignorePatterns:
     - private
     - templates
